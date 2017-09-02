@@ -8,7 +8,7 @@ Used Microsoft Excel to store the data and create graphs to compare the sorting 
 # Networks and Data Communications - TCP Protocol Analysis using Wireshark - Assignment
 Traced TCP segments sent and received from downloading a large file from a server to my computer. We then answered questions related to TCP providing screenshots of our findings.
 # Nextgen II - Digital Media & 2D Games in Java
-Created 3 Games using Jframe class in Java - 
+Created 3 Games using Jframe class in Java
 * Game similar to Space Invaders
 * Game of Life
 * Bad guy vs Good guy using Pathfinding Algorithm
